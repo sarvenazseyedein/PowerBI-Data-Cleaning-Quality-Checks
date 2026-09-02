@@ -83,8 +83,9 @@ ERP Upload Readiness
 ![Raw Data Preview](raw_data_preview.png)
 ### Data Quality Checks
 
-![Data Quality Checks](screenshots/data_quality_checks.png)
+![Data Quality Checks 1](dat_quality-checks%201.png)
 
+![Data Quality Checks 2](data_quality_checks%202.png)
 ---
 
 ## 📁 Project Files
