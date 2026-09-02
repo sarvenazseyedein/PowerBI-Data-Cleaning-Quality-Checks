@@ -76,7 +76,7 @@ ERP Upload Readiness
 
 ### Project Brief
 
-![Project Brief](screenshots/project_brief.png)
+![Project Brief](Projekt_Brief%201.png)
 
 ### Raw Data Preview
 
