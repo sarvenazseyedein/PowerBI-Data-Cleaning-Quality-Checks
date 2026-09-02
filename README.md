@@ -77,6 +77,7 @@ ERP Upload Readiness
 ### Project Brief
 
 ![Project Brief](Projekt_Brief%201.png)
+![Project Brief Questions](Projekt_Brief%202.png)
 
 ### Raw Data Preview
 
