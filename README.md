@@ -80,8 +80,7 @@ ERP Upload Readiness
 
 ### Raw Data Preview
 
-![raw_data_preview.png](screenshots/raw_data_preview.png)
-
+![Raw Data Preview](raw_data_preview.png)
 ### Data Quality Checks
 
 ![Data Quality Checks](screenshots/data_quality_checks.png)
